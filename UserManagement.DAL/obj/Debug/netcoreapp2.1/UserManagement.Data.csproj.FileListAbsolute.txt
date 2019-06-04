@@ -1,0 +1,12 @@
+C:\Users\Student\UserManagement\UserManagement.DAL\bin\Debug\netcoreapp2.1\UserManagement.Data.deps.json
+C:\Users\Student\UserManagement\UserManagement.DAL\bin\Debug\netcoreapp2.1\UserManagement.Data.dll
+C:\Users\Student\UserManagement\UserManagement.DAL\bin\Debug\netcoreapp2.1\UserManagement.Data.pdb
+C:\Users\Student\UserManagement\UserManagement.DAL\bin\Debug\netcoreapp2.1\UserManagement.Domain.dll
+C:\Users\Student\UserManagement\UserManagement.DAL\bin\Debug\netcoreapp2.1\UserManagement.Domain.pdb
+C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.Data.csprojAssemblyReference.cache
+C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.Data.AssemblyInfo.cs
+C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.Data.csproj.CopyComplete
+C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.Data.dll
+C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.Data.pdb

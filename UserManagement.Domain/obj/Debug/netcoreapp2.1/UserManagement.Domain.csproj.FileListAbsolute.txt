@@ -1,0 +1,14 @@
+C:\Users\Student\UserManagement\UserManagement.Domain\bin\Debug\netcoreapp2.1\UserManagement.Domain.deps.json
+C:\Users\Student\UserManagement\UserManagement.Domain\bin\Debug\netcoreapp2.1\UserManagement.Domain.dll
+C:\Users\Student\UserManagement\UserManagement.Domain\obj\Debug\netcoreapp2.1\UserManagement.Domain.csprojAssemblyReference.cache
+C:\Users\Student\UserManagement\UserManagement.Domain\obj\Debug\netcoreapp2.1\UserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Student\UserManagement\UserManagement.Domain\obj\Debug\netcoreapp2.1\UserManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Student\UserManagement\UserManagement.Domain\obj\Debug\netcoreapp2.1\UserManagement.Domain.AssemblyInfo.cs
+C:\Users\Student\UserManagement\UserManagement.Domain\obj\Debug\netcoreapp2.1\UserManagement.Domain.csproj.CopyComplete
+C:\Users\Student\UserManagement\UserManagement.Domain\bin\Debug\netcoreapp2.1\UserManagement.Domain.pdb
+C:\Users\Student\UserManagement\UserManagement.Domain\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\UserManagement\UserManagement.Domain\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\UserManagement\UserManagement.Domain\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Student\UserManagement\UserManagement.Domain\bin\Debug\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Student\UserManagement\UserManagement.Domain\obj\Debug\netcoreapp2.1\UserManagement.Domain.dll
+C:\Users\Student\UserManagement\UserManagement.Domain\obj\Debug\netcoreapp2.1\UserManagement.Domain.pdb
