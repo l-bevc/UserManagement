@@ -1,9 +1,0 @@
-C:\Users\Student\UserManagement\UserManagement.DAL\bin\Debug\netcoreapp2.1\UserManagement.DAL.deps.json
-C:\Users\Student\UserManagement\UserManagement.DAL\bin\Debug\netcoreapp2.1\UserManagement.DAL.dll
-C:\Users\Student\UserManagement\UserManagement.DAL\bin\Debug\netcoreapp2.1\UserManagement.DAL.pdb
-C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.DAL.AssemblyInfoInputs.cache
-C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.DAL.AssemblyInfo.cs
-C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.DAL.dll
-C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.DAL.pdb
-C:\Users\Student\UserManagement\UserManagement.DAL\obj\Debug\netcoreapp2.1\UserManagement.DAL.csprojAssemblyReference.cache

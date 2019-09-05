@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using UserManagement.Domain;
 
 namespace UserManagement.Data.DB
 {
@@ -8,6 +9,9 @@ namespace UserManagement.Data.DB
         public AuthenticationContext(DbContextOptions options) : base(options)
         {
         }
+
+
+        public DbSet<User> ApplicationUsers { get; set; }
 
     }
 }
